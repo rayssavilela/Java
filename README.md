@@ -1,6 +1,8 @@
 # Projetos e Exercícios em Java
 
-Projetos desenvolvido em Java, para aprendizado contínuo, Loops, Condicionais, Estrutura de Dados, API e Programação Orientada a Objeto. Por hora desenvolvi uma demonstração da criação de uma API REST simples utilizando Spring Boot.
+Projetos desenvolvidos em Java para aprendizado contínuo de Loops, Condicionais, Estruturas de Dados, APIs REST e Programação Orientada a Objetos.
+
+Atualmente o repositório contém uma demonstração da criação de uma API REST utilizando Spring Boot.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -25,3 +27,17 @@ git clone https://github.com/seuusuario/projeto.git
 cd projeto
 
 mvn spring-boot:run
+```
+
+# Olá, eu sou Rayssa 👋
+
+💻 Desenvolvedora Java
+
+📚 Estudando:
+- Java
+- Spring Boot
+- APIs REST
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayssavilela&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssavilela&layout=compact)
